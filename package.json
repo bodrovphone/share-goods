@@ -1,0 +1,42 @@
+{
+  "name": "share-goods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodrovphone/share-goods.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bodrovphone/share-goods/issues"
+  },
+  "homepage": "https://github.com/bodrovphone/share-goods#readme",
+  "dependencies": {
+    "@types/react-query": "^1.2.9",
+    "aws-sdk": "^2.1346.0",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.3"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "@types/node": "^18.15.11",
+    "@types/react": "^18.0.31",
+    "@types/react-dom": "^18.0.11",
+    "autoprefixer": "^10.4.14",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^29.5.0",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5.0.2"
+  }
+}
